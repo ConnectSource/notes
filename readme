@@ -1,0 +1,3 @@
+[block] analytics: bi.connecteam.com/bi/api/ReportHit/
+
+[xss] main.js: https://app.connecteam.com/main.js
